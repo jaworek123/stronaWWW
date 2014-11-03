@@ -1,0 +1,3 @@
+koniec_polska_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: KoniecPolskaBundle:Default:index }

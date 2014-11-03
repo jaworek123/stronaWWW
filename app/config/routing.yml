@@ -1,0 +1,4 @@
+koniec_polska:
+    resource: "@KoniecPolskaBundle/Resources/config/routing.yml"
+    prefix:   /
+
